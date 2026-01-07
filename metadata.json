@@ -1,0 +1,7 @@
+{
+  "name": "AdIntel: LinkedIn Ad Intelligence Hub",
+  "description": "A comprehensive competitive intelligence dashboard that analyzes LinkedIn ads using Gemini AI to provide branding insights, tone analysis, and creative strategy visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
