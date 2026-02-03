@@ -41,3 +41,4 @@ export interface BrandIntelligence {
   }[];
   visualLanguageScore: number;
 }
+
