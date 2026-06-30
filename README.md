@@ -14,7 +14,6 @@ This project helps growth, marketing, and strategy teams understand how brands a
 	•	📄 Consolidate all ad data into structured sheets
 	•	📊 Generate ready-to-use dashboards for insights & analysis
 
-⸻
 
 🧠 What This Project Solves
 
