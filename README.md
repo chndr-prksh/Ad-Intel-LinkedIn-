@@ -153,6 +153,4 @@ Ideas, issues, and pull requests are welcome!
 
 MIT License
 
-⸻
-
 If you find this project useful, consider giving it a ⭐ on GitHub.
