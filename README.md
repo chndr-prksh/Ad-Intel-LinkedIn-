@@ -145,7 +145,7 @@ This project is for research and educational purposes only. Ensure compliance wi
 
 ⭐ Contributing
 
-Ideas, issues, and pull requests are welcome!
+Ideas, issues, and pull requests are welcome!.
 
 ⸻
 
