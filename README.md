@@ -4,8 +4,6 @@ An end-to-end LinkedIn Ads intelligence system built in Python that crawls the L
 
 This project helps growth, marketing, and strategy teams understand how brands advertise on LinkedIn, what messaging works, and how competitors position themselves.
 
-⸻
-
 🚀 Key Capabilities
 	•	🕵️ Crawl LinkedIn Ad Library by brand name, domain, and other parameters
 	•	📝 Extract ad copy, metadata, and HTML snapshots
