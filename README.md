@@ -81,7 +81,7 @@ Dashboards are designed to be:
 	•	Google Gemini Vision API
 	•	Google Sheets / Excel outputs
 
-⸻
+
 
 ⚙️ Setup & Usage
 
